@@ -1,1 +1,1 @@
-<img src="/SİTE/sitem/yagmur.jpg" alt="yağmur damlaları" title="yağmur damlaları">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.freeimages.com%2Fimages%2Flarge-previews%2F90d%2Frain-drop-1541816.jpg&tbnid=uhtedMVbrxyPKM&vet=12ahUKEwiV9ouL58mDAxXDnCcCHaa5CcQQMygJegQIARBh..i&imgrefurl=https%3A%2F%2Fwww.freeimages.com%2Ftr%2Fphoto%2Frain-drop-1541816&docid=gSKc34ToBkOeVM&w=1600&h=1200&q=YA%C4%9EMUR%20DAMLALARI&ved=2ahUKEwiV9ouL58mDAxXDnCcCHaa5CcQQMygJegQIARBh" alt="yağmur damlaları" title="yağmur damlaları">
