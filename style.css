@@ -68,7 +68,16 @@ li.nav-link{
 }
 
 .main{
-    background-color:#E0AED0;
+    color: #fff;
+    background-color: #E0AED0;
+    background-image: 
+    radial-gradient(at 9% 89%, rgb(241, 235, 243)0px, transparent 50% ),
+    radial-gradient(at 72% 6%, rgb(255, 106, 173)0px, transparent 50% ),
+    radial-gradient(at 24% 19%, rgb(244, 85, 172)0px, transparent 50% ),
+    radial-gradient(at 65% 6%, rgb(131, 131, 131)0px, transparent 50% ),
+    radial-gradient(at 20% 98%, rgb(55, 55, 55)0px, transparent 50% ),
+    radial-gradient(at 44% 9%, rgb(162, 162, 162)0px, transparent 50% ),
+    radial-gradient(at 19% 9%, rgb(77, 77, 77)0px, transparent 50% );
     margin-top: 10vh;
     display:inline-block ;
     padding: 20px;
